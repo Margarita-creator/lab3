@@ -1,4 +1,6 @@
-// Copyright by Enigma
+// Copyright by Margarita-creator
+
+
 #ifndef INCLUDE_PTR_HPP_
 #define INCLUDE_PTR_HPP_
 
@@ -8,7 +10,6 @@
 #include <iostream>
 #include <utility>
 
-auto example() -> void;
 
 template <typename T>
 class SharedPtr {
